@@ -1,4 +1,7 @@
-# java_exercises
-Exercises for JAVA course - Autumn 2018
+# JAVA exercises
 
-I was coding all these exercises during autumn 2018 during the JAVA course at Haaga-Helia
+-- English </br>
+Exercises for JAVA course, autumn 2018, at Haaga-Helia
+
+-- Português </br>
+Exercícios para o curso de JAVA, outono de 2018, na universidade Haaga-Helia. 
